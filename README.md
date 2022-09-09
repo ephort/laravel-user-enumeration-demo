@@ -29,4 +29,5 @@ If it "could not determine winner" that means they generally took the same time 
 ## Contributions
 
 Tom Van Goethem et al (Timeless timing attacks)
+
 [Jens Just Iversen](https://ephort.dk) (laravel user enumation)
