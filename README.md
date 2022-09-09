@@ -26,3 +26,7 @@ python3 laravel.py
 The script will tell you which request from the request-pair that most of the times took longest to return.
 If it "could not determine winner" that means they generally took the same time to return meaning the email under test exists on the server.
 
+## Contributions
+
+Tom Van Goethem et al (Timeless timing attacks)
+[Jens Just Iversen](https://ephort.dk) (laravel user enumation)
